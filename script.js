@@ -1,6 +1,6 @@
 
 const SHEET_ID = '14JEK5FjK72oCONiPHMmb8kTulKwWy78jpLAnHhEPgn4';
-const SHEET_NAME = 'Sheet1';  // Replace with actual sheet name if different
+const SHEET_NAME = 'https://docs.google.com/spreadsheets/d/14JEK5FjK72oCONiPHMmb8kTulKwWy78jpLAnHhEPgn4/edit';  // Replace with actual sheet name if different
 const API_KEY = 'AIzaSyBd1yUTrfJdklvMhdFUvlAXZ6fYAB1AFy4';
 
 function fetchUserData() {
